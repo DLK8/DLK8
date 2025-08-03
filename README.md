@@ -1,4 +1,4 @@
-<h2 align="left">Hi, My name is Karem Mohamed<br>I'm a programmer and Data Analyst</h2>
+<h2 align="left">Hi, My name is Karem Mohamed<br>I'm a Programmer and Data Analyst</h2>
 
 ###
 
