@@ -1,4 +1,4 @@
-<h2 align="left">Welcome, My name is Karem Mohamed<br>Let's build something amazing together!</h2>
+<h2 align="left">Welcome, My name is Karem Mohamed<br>Let's make something amazing together!</h2>
 
 ###
 
